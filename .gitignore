@@ -23,3 +23,28 @@ dist-ssr
 *.sln
 *.sw?
 .env
+# Inside the parent .gitignore
+my-app/logs
+my-app/*.log
+my-app/npm-debug.log*
+my-app/yarn-debug.log*
+my-app/yarn-error.log*
+my-app/pnpm-debug.log*
+my-app/lerna-debug.log*
+
+my-app/node_modules
+my-app/dist
+my-app/dist-ssr
+my-app/*.local
+
+# Editor directories and files
+my-app/.vscode/*
+my-app!.vscode/extensions.json
+my-app/.idea
+my-app/.DS_Store
+my-app/*.suo
+my-app/*.ntvs*
+my-app/*.njsproj
+my-app/*.sln
+my-app/*.sw?
+my-app/.env
