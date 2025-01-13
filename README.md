@@ -2,6 +2,13 @@
 # Live Link : https://mapup-assignment-dashboard.onrender.com/dashboard
 # Video Link : https://www.loom.com/share/f22e027c5ca3439fa30a350287ce5c9a
 
+### Similar Projects Live Links
+--- 
+    https://listed-assignment-navy.vercel.app/
+---
+    https://github.com/venkatsaipalla/Listing-react-dashboard
+![image](https://github.com/user-attachments/assets/9a1fb92b-6cd3-4b85-9ec8-faa3bc947764)
+
 ## Getting Started
 
 Follow the steps below to run the server and the frontend.
