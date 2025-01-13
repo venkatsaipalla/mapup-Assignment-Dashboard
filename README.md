@@ -1,4 +1,6 @@
 # Project Name -  Analysis Dashboard
+# Live Link : https://mapup-assignment-dashboard.onrender.com/dashboard
+# Video Link : https://www.loom.com/share/f22e027c5ca3439fa30a350287ce5c9a
 
 ## Getting Started
 
